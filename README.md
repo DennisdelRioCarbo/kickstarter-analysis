@@ -11,7 +11,8 @@ There were  some challenges trying to analyze the data using certain formulas an
 
 
 ### Analysis of Outcomes Based on Goals
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104289098/167756191-13b4f70d-18b5-4a0b-a139-22bfbed543e0.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104289098/167756276-fc85d44c-85a6-4c37-9794-4eece90e1bfb.png)
+
 
 
 ## Results
