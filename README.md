@@ -7,9 +7,11 @@ The purpose of this Analysis is to provide Louise with an analysis of kickstarte
 ## Analysis and Challenges
 There were  some challenges trying to analyze the data using certain formulas and applying filters at the same time as excel doesn't support this sometimes. Support from classmates and online searches helped find workarounds for this difficulties. Applying the excel formulas can be confusing sometimes but again the documentation and onlines searches help finding a solution. Working with a big dataset can be challenging as well, as not all the data can seem relevant at first and because you have to find ways to organize the data to make it relevant and be able to analyze it.
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104289098/167756167-18f29cfe-2d07-48e0-852f-a0825e20d0f3.png)
 
 
 ### Analysis of Outcomes Based on Goals
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104289098/167756191-13b4f70d-18b5-4a0b-a139-22bfbed543e0.png)
 
 
 ## Results
