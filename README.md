@@ -7,10 +7,11 @@ The purpose of this Analysis is to provide Louise with an analysis of kickstarte
 ## Analysis and Challenges
 There were  some challenges trying to analyze the data using certain formulas and applying filters at the same time as excel doesn't support this sometimes. Support from classmates and online searches helped find workarounds for this difficulties. Applying the excel formulas can be confusing sometimes but again the documentation and onlines searches help finding a solution. Working with a big dataset can be challenging as well, as not all the data can seem relevant at first and because you have to find ways to organize the data to make it relevant and be able to analyze it.
 ### Analysis of Outcomes Based on Launch Date
-https://github.com/DennisdelRioCarbo/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+
 
 ### Analysis of Outcomes Based on Goals
-https://github.com/DennisdelRioCarbo/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+
+
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 May is the month when more projects are launched followed by June and July. These three months also see the highest success rates which starts to decline as the year moves along. 
