@@ -10,7 +10,7 @@ There were  some challenges trying to analyze the data using certain formulas an
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
-
+https://github.com/DennisdelRioCarbo/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
 
 
 ## Results
